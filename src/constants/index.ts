@@ -117,4 +117,4 @@ export const FARM_ADDRESS: { [chainId in ChainId]: string } = {
   [ChainId.TX]: '0xfccf0B208a958310aFEeFBd817ACC30D8cEDa575'
 }
 
-export const NFT_ADDRESS = '0x20A5D8c956c5001cb36CE1D86BF42556B581F2E4'
+export const NFT_ADDRESS = '0xfac0244f6e9da7e29e21db0aa76de195b50c5d1f'
