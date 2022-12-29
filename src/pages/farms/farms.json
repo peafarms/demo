@@ -16,7 +16,7 @@
       "token1Address": "0x68909Fea4ca0e80247da6b974c10f225696e00D6",
       "token0Name": "PEA",
       "token1Name": "WTX",
-      "weights": "500"
+      "weights": "10"
     },
   {
     "index": "2",
@@ -25,7 +25,7 @@
     "token1Address": "0xa8210fc1387c26230598d056f01e19eaa9ffffff",
     "token0Name": "WTX",
     "token1Name": "USDT",
-    "weights": "10"
+    "weights": "1"
 
   }
 ]
